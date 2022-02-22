@@ -1,3 +1,5 @@
-# book-recommender
+# Book Recommendations
+// in progress
 
-https://www.kaggle.com/arashnic/book-recommendation-dataset?select=Books.csv
+A machine learning book reccomendation system using hybrid filtering. 
+ Source: [Data](https://www.kaggle.com/arashnic/book-recommendation-dataset?select=Books.csv)
